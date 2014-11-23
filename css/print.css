@@ -185,7 +185,7 @@ table {
 @font-face {
   font-family: 'virtus_sans_light';
   src: url('../fonts/virtus_sans_light.eot');
-  src: url('../fonts/virtus_sans_light.eot?#iefix') format('embedded-opentype'), url('../fonts/virtus_sans_light.woff2') format('woff2'), url('../fonts/virtus_sans_light.woff') format('woff'), url('../fonts/virtus_sans_light.ttf') format('truetype'), url('../fonts/virtus_sans_light.svg#virtus_sans_lightlight') format('svg');
+  src: url('../fonts/virtus_sans_light.eot?#iefix') format('embedded-opentype'), url('../fonts/virtus_sans_light.woff') format('woff'), url('../fonts/virtus_sans_light.ttf') format('truetype'), url('../fonts/virtus_sans_light.svg#virtus_sans_lightlight') format('svg');
   font-weight: normal;
   font-style: normal; }
 
