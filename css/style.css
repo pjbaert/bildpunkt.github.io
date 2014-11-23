@@ -297,7 +297,7 @@ header .logo {
 header nav {
   font-size: 17px;
   text-align: center;
-  padding-top: 20px; }
+  padding-top: 10px; }
   .lt-ie9 header nav {
     float: left;
     display: block;
