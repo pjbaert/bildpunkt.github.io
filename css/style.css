@@ -357,6 +357,10 @@ header nav {
 .hidden {
   display: none; }
 
+.intro {
+  font-size: 20px;
+  line-height: 1.35em; }
+
 /* ---------- Import styles ---------- */
 /* Base responsive images */
 img {
