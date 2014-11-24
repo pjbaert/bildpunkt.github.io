@@ -26,7 +26,7 @@ audio:not([controls]) {
 
 html {
   background: white;
-  color: #585b59;
+  color: #3f4140;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%; }
 
@@ -263,7 +263,7 @@ h6 {
   padding: 0 0.625em;
   margin-left: auto;
   margin-right: auto;
-  padding: 2em; }
+  padding: 2em 0.0625em; }
   .container:after {
     content: "";
     display: table;
@@ -275,6 +275,9 @@ header, footer, .main {
     content: "";
     display: table;
     clear: both; }
+
+.content {
+  padding-top: 0.0625em; }
 
 .sidebar {
   display: none; }
